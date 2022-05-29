@@ -1,0 +1,19 @@
+body {
+    display: grid;
+    place-items: center;
+}
+h1  {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 5rem;
+}
+form {
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+label {
+    color: cornflowerblue;
+    font-size: 1.5rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
